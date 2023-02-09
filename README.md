@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Html, Css**
+- 💬 Ask me about **Html, Css, Javascript**
 
 - 📫 How to reach me **HarshitaNaikWevDev@gmail.com**
 
