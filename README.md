@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif"/>
 
-- 🔭 I’m currently working on **Exercises-app**
+- 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **ReactJs**
 
