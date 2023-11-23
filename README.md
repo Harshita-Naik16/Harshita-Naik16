@@ -3,11 +3,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif"/>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Threads clone**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **Html, Css, Javascript**
+- 💬 Ask me about **Html, Css, Javascript, ReactJs**
 
 - 📫 How to reach me **HarshitaNaikWevDev@gmail.com**
 
