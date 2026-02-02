@@ -9,7 +9,9 @@
 
 - ⚡ Fun fact **I am a tsundere**
 
-<h3 align="left">Connect with me: HarshitaNaikWevDev@gmail.com</h3>
+- 💻 <a href="https://harshita-naik.vercel.app" target="_blank">Portfolio Site</a>
+
+  
 <p align="left">
 </p>
 
